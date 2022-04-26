@@ -1,4 +1,4 @@
-import Coin from "./coin"
+import Coin from "./Coin"
 export default function Milestone({coin}){
     return (
         <div className="milestone">

@@ -1,4 +1,4 @@
-import Milestone from "./milestone"
+import Milestone from "./Milestone"
 import coins from '../coins.json'
 
 export default function TimeLine(){

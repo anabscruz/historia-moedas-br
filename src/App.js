@@ -1,4 +1,4 @@
-import TimeLine from './components/timeline';
+import TimeLine from './components/Timeline';
 import './style/my-sass.sass'
 
 function App() {
