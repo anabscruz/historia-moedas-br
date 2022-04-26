@@ -1,7 +1,7 @@
-export default function Coin({nome, sigla}){
+export default function Coin({sigla}){
     return(
-        <div>
-            {nome}, {sigla}
-        </div>
+        <span className='coin'>
+            {sigla}
+        </span>
     )
 }

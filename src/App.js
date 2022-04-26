@@ -4,7 +4,7 @@ import './style/my-sass.sass'
 function App() {
   return (
     <div className='container'>
-      <div class="row justify-content-md-center">
+      <div className='justify-content-md-center'>
         <h1>Quantas vezes o Brasil trocou de moeda?</h1>
         <p>
           <b>De nome, foram 9 vezes.</b> Em duas ocasiões, o nome se manteve, 
