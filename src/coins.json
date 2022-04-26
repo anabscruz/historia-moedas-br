@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Real",
+        "initials": "R",
+        "note": "Na linguagem popular, \"réis\"",
+        "years": "... até 1833"
+    },
+    {
+        "name": "Mil-réis",
+        "initials": "Rs",
+        "note": "Corte de três zeros",
+        "years": "1833 - 1942"
+    },
+    {
+        "name": "Cruzeiro",
+        "initials": "Cr$",
+        "note": "Corte de três zeros",
+        "years": "1942 - 1964"
+    },
+    {
+        "name": "Cruzeiro",
+        "initials": "Cr$",
+        "note": "Retirada dos centavos",
+        "years": "1964 - 1967"
+    },
+    {
+        "name": "Cruzeiro Novo",
+        "initials": "NCr$",
+        "note": "Corte de três zeros",
+        "years": "1967 - 1970"
+    },
+    {
+        "name": "Cruzeiro",
+        "initials": "Cr$",
+        "note": "Mudança só de nome",
+        "years": "1970 - 1984"
+    },
+    {
+        "name": "Cruzeiro",
+        "initials": "Cr$",
+        "note": "Retirada dos centavos",
+        "years": "1984 - 1986"
+    },
+    {
+        "name": "Cruzado",
+        "initials": "Cz$",
+        "note": "Corte de três zeros",
+        "years": "1986 - 1989"
+    },
+    {
+        "name": "Cruzado Novo",
+        "initials": "NCz$",
+        "note": "Corte de três zeros",
+        "years": "1989 - 1990"
+    },
+    {
+        "name": "Cruzeiro",
+        "initials": "NCz$",
+        "note": "Mudança só de nome",
+        "years": "1990 - 1993"
+    },
+    {
+        "name": "Cruzeiro Real",
+        "initials": "CR$",
+        "note": "Corte de três zeros",
+        "years": "1993 - 1994"
+    },
+    {
+        "name": "Real",
+        "initials": "R$",
+        "note": "Divisão por 2.750",
+        "years": "1994 - hoje"
+    }
+]

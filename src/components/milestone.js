@@ -1,9 +1,8 @@
 import Coin from "./coin"
-export default function Milestone({year, coin}){
+export default function Milestone({coin}){
     return (
-        <>
-            <p>Milestone</p>
+        <div className="milestone">
             <Coin nome={coin.name} sigla={coin.initials} />
-        </>
+        </div>
     )
 }
